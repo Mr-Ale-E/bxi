@@ -1,1 +1,4 @@
-# bxi
+- `rm -rf bxi`
+- `git clone https://github.com/Mr-Ale-E/bxi`
+- `chmod 777 bxii`
+- `./bxii`
